@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "以线性回归为例比较机器学习不同的学习准则"
+date:   2022-08-23 20:16:17 +0800
+categories: Machine Learning
+---
+[阅读原文](http://cdn.constantine3.cn/TakeLinearRegressionAsAnExampleToCompareDifferentLearningCriteriaForML.pdf)
